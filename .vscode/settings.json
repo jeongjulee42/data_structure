@@ -1,6 +1,7 @@
 {
     "python.analysis.extraPaths": [
         "./01_list",
-        "./stack"
+        "./stack",
+        "./hash"
     ]
 }
